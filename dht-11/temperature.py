@@ -1,3 +1,4 @@
+# you may want to include a 5k pull up resistor on data line
 # pip install Adafruit_DHT
 import Adafruit_DHT
 import sys
